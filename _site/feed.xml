@@ -3,8 +3,8 @@
 	<channel>
 		<title>EDAMAME 2015</title>
 		<description></description>
-		<link>http://edamame-course.github.io/docs</link>
-		<atom:link href="http://edamame-course.github.io/docs/feed.xml" rel="self" type="application/rss+xml" />
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Getting Set Up For The Course</title>
@@ -56,8 +56,8 @@
 &lt;hr&gt;
 </description>
 				<pubDate>Fri, 21 Aug 2015 04:55:36 -0400</pubDate>
-				<link>http://edamame-course.github.io/docs/2015/08/general_set_up_guidelines</link>
-				<guid isPermaLink="true">http://edamame-course.github.io/docs/2015/08/general_set_up_guidelines</guid>
+				<link>/tutorial/2015/08/21/general_set_up_guidelines/</link>
+				<guid isPermaLink="true">/tutorial/2015/08/21/general_set_up_guidelines/</guid>
 			</item>
 		
 	</channel>
