@@ -1,6 +1,6 @@
 ---
 title: "Getting Set Up For The Course"
-layout: page
+layout: post
 date: 2015-08-21 08:55:36
 category : tutorial
 tags : []
